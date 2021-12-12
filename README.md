@@ -1,2 +1,2 @@
 # vps-scripts
-Automated package installation scripts
+package installation scripts
