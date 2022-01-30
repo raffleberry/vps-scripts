@@ -1,2 +1,2 @@
-# vps-scripts
+# vps scripts
 package installation scripts
